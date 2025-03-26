@@ -16,4 +16,5 @@ public interface Program {
 	void searchStudent(Scanner sc);
 	void insertSubject(Scanner sc);
 	void deleateSubject(Scanner sc);
+	void deleteSubject(Scanner sc);
 }

@@ -66,3 +66,4 @@ public class VIPCustomer extends Customer {
 	}
 
 }
+

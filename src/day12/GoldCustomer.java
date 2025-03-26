@@ -39,3 +39,7 @@ public class GoldCustomer extends Customer{
 	}
 	
 }
+
+
+
+
